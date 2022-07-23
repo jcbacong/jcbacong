@@ -1,6 +1,6 @@
 
 
-  <h1 align="center"> Hey,  I'm Junelle! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br>
+  <h1 align="center"> Hey,  I'm Junelle! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br><\br>
 <div id="badges">
   <a href="https://scholar.google.com/citations?user=V-yA8awAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/Google Scholar-black?style=for-the-badge&logo=google&logoColor=white" alt="Google scholar"/>
