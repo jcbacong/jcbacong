@@ -30,7 +30,7 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently working on my MD-PhD in Molecular Medicine.
-- 👯 I’m looking for collaborations in the ff: biomedical engineering, data science and complex systems.
+- 👯 I’m looking for collaborations in the following areas: biomedical engineering, data science and complex systems.
 - 📫 How to reach me: bacong.junelle@gmail.com
 
 ---
