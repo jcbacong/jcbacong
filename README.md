@@ -3,24 +3,20 @@
 <p align="center">  <img src="https://media.giphy.com/media/WpUcKUgtay34Yq2rtC/giphy.gif" width="250"/></p>
 <h1 align="center"> Hey,  I'm <i>Junelle</i>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br></br>
 <div id="badges" padding-top=2>
-  <a href="https://scholar.google.com/citations?user=V-yA8awAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/Google Scholar-black?style=for-the-badge&logo=google&logoColor=white" alt="Google scholar"/>
-  </a>
   <a href="https://www.linkedin.com/in/junelle-rey-bacong-994a6b153/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/10003652/junelle-rey">
     <img src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="StackOverflow Badge"/>
   </a>
-  
-  
+  <a href="https://scholar.google.com/citations?user=V-yA8awAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google Scholar-black?style=for-the-badge&logo=google&logoColor=white" alt="Google scholar"/>
+  </a>
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jcbacong&style=flat-square&color=blue" alt=""/> </div>
 
-
 <h4 align="center"><i>A physics graduate turned into a legit physician... </i></h4>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
