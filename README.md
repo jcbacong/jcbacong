@@ -2,15 +2,17 @@
 
   <h1 align="center"> Hey,  I'm Junelle! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/junelle-rey-bacong-994a6b153/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://scholar.google.com/citations?user=V-yA8awAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/Google Scholar-black?style=for-the-badge&logo=google&logoColor=white" alt="Google scholar"/>
   </a>
-  <a href="https://twitter.com/nelmntrxx/L">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/junelle-rey-bacong-994a6b153/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/10003652/junelle-rey">
+    <img src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="StackOverflow Badge"/>
+  </a>
+  
+  
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jcbacong&style=flat-square&color=blue" alt=""/> </div>
@@ -51,4 +53,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcbacong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+### 🏆 My Contributions:
+[![trophy](https://github-profile-trophy.vercel.app/?username=jcbacong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
