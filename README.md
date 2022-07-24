@@ -1,6 +1,6 @@
 
 
-<p align="center">  <img src="https://media.giphy.com/media/WpUcKUgtay34Yq2rtC/giphy.gif" width="250"/></p>
+<p align="center">  <img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="250"/></p>
 <h1 align="center"> Hey,  I'm <i>Junelle</i>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br></br>
 <div id="badges" padding-top=2>
   <a href="https://scholar.google.com/citations?user=V-yA8awAAAAJ&hl=en&oi=ao">
