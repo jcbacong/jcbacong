@@ -18,7 +18,7 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jcbacong&style=flat-square&color=blue" alt=""/> </div>
 
-<h4 align="center"><i>A physicist in training to become a physician-scientist. 👨‍⚕️🧑‍🔬 </i></h4>
+<h4 align="center"><i>A physicist lost in med school. 👨‍⚕️🧑‍🔬 </i></h4>
 
 <div align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
