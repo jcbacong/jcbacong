@@ -27,7 +27,7 @@
 ---
 ### :man_technologist: About Me :
 
-- 🎓 Graduated Physics from <a href="https://twitter.com/Official_UPD">@updiliman</a> with research exp on scientific computing and data science.
+- 🎓 Graduated Physics from <a href="https://twitter.com/Official_UPD">@updiliman</a>
 
 - 🔭 Currently taking up MD-PhD in Molecular Medicine <a href="https://twitter.com/upmanilaonline"> @upmanilaonline</a>
 
