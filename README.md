@@ -29,7 +29,7 @@
 
 - 🎓 Studied Physics and Computer Science <a href="https://twitter.com/Official_UPD">@updiliman</a>
 
-- 🔭 Currently taking up MD-PhD in Molecular Medicine <a href="https://twitter.com/upmanilaonline"> @upmanilaonline</a>
+- 🩺 Currently taking up MD-PhD in Molecular Medicine <a href="https://twitter.com/upmanilaonline"> @upmanilaonline</a>
 
 - 👯 Open for collabs in the following areas: biomedical engineering, bioinformatics & medical physics.
 
