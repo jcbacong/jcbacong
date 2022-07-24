@@ -27,7 +27,7 @@
 ---
 ### :man_technologist: About Me :
 
-- 🔭 Just started with my MD-PhD in Molecular Medicine <a href="https://twitter.com/upmanilaonline"> @upmanilaonline</a>
+- 🔭 Currently taking up MD-PhD in Molecular Medicine <a href="https://twitter.com/upmanilaonline"> @upmanilaonline</a>
 
 - 👯 Open for collabs in the following areas: biomedical engineering, data science and complex systems.
 
