@@ -21,7 +21,7 @@
 <h4 align="center"><i>A physics graduate turned into a legit physician... </i></h4>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="500" height="300"/>
 </div>
 
 ---
