@@ -31,7 +31,7 @@
 
 - 🩺 Currently taking up MD-PhD in Molecular Medicine <a href="https://twitter.com/upmanilaonline"> @upmanilaonline</a>
 
-- 👯 Open for collabs in the following areas: biomedical engineering, bioinformatics & medical physics.
+- 👯 Open for collabs in the following areas: complex systems, biomedical engineering, bioinformatics & medical physics.
 
 - 📫 How to reach me: bacong.junelle@gmail.com
 
